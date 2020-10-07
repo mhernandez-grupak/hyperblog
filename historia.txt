@@ -2,4 +2,8 @@ Esta es la historia de Miguel
 
 Miguel tienen 36 años y 1 mes y nació en México viviendo en Toluca
 
+<<<<<<< HEAD
 Hoy hablaremos de su vida y obra maestra.
+=======
+Mañana nos enfocaremos en su vida laboral.
+>>>>>>> cabecera
